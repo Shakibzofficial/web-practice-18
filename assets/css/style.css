@@ -213,6 +213,7 @@
 .news-content-part > p{
     padding-top: 10px;
     padding-bottom: 40px;
+    padding-right: 20px;
 }
 .news-content-part > a{
     display: inline-block;
